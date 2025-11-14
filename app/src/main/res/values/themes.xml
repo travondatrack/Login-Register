@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Login_Register" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Login_Register.AppCompat" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#E87444</item>
+        <item name="colorPrimaryDark">#D06030</item>
+        <item name="colorAccent">#3b5998</item>
+    </style>
+
+</resources>
